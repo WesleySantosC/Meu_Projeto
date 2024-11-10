@@ -15,7 +15,7 @@
         <input type="hidden" name="action" value="signin">
         <input type="text" name="nome" placeholder="Email: exemplo@gmail.com" required>
         <i class="fa-solid fa-envelope iEmail"></i>
-        <input type="password" name="pass" placeholder="Password: 123456" required>
+        <input type="password" name="pass" placeholder="Password: 1234567" required>
         <i class="fa-solid fa-lock iPassword"></i>
         <div class="divCheck">
             <input type="checkbox">
@@ -29,9 +29,9 @@
         <input type="hidden" name="action" value="signup">
         <input type="text" name="nome" placeholder="Email: exemplo@gmail.com" required>
         <i class="fa-solid fa-envelope iEmail"></i>
-        <input type="password" name="pass" placeholder="Password: 123456" required>
+        <input type="password" name="pass" placeholder="Password: 1234567" required>
         <i class="fa-solid fa-lock iPassword"></i>
-        <input type="password" name="confirm_pass" placeholder="Confirm Password: 123456" required>
+        <input type="password" name="confirm_pass" placeholder="Confirm Password: 1234567" required>
         <i class="fa-solid fa-lock iPassword2"></i>
         <div class="divCheck">
             <input type="checkbox">
